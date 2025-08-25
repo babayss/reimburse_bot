@@ -1,0 +1,7 @@
+# Abaikan file environment yang berisi token rahasia
+.env
+
+# Abaikan file cache Python dan log lokal
+__pycache__/
+*.pyc
+rembes_bot.log
